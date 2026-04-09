@@ -31,7 +31,7 @@ dependencies: [
 This package includes:
 
 - LevelPlay iOS SDK (Unity Mediation SDK)
-- HyprMX SDK v6.4.6 (via [HyprMX-SDK-SPM](https://github.com/JunGroupProductions/HyprMX-SDK-SPM))
+- HyprMX SDK
 
 ## Documentation
 
