@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "HyprMXAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/hyprmx-adapter/5.3.0/ISHyprMXAdapter5.3.0.zip",
-      checksum: "927a7eb0fafed90be9a4d91f3736c9059e0d8bfb8bf6fa805a6369c99e1ccfbc"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/hyprmx-adapter/5.4.0/ISHyprMXAdapter5.4.0.zip",
+      checksum: "fe4adf312237f61926afb7d0796f2c173642673794e178f389a53beaeb937356"
     )
   ]
 )
